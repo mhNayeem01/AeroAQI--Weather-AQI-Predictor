@@ -4,7 +4,7 @@ import os, time
 from src.data_sources import fetch_current_observation
 from src.model import load_model, predict
 
-API_KEY = "d8d912f5d1ecad57765cf4f6dae6e733"
+API_KEY = "108b1a451bff4c206f9afcafb684ba2b"
 
 st.set_page_config(page_title="AirQ Forecast", page_icon="🌍", layout="wide")
 st.title("🌍 AirQ - Current AQI + Hours-ahead Prediction")
