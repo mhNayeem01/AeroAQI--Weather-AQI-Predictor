@@ -15,7 +15,7 @@ The app also lets you forecast the AQI **n hours into the future**.
 
 ## 📽️ Demo
 <p align="center">
-  <video src="src/demo.mp4" controls width="700"></video>
+  <video src="https://github.com/mhNayeem01/AeroAQI--Weather-AQI-Predictor/blob/main/src/demo.mp4" controls width="700"></video>
 </p>
 
 ---
